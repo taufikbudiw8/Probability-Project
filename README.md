@@ -5,7 +5,9 @@ ___
 Dataset : https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior
 
 In this analysis, some data will be used as listed in the following table.
+
 <img width="327" alt="Screenshot 2023-07-09 162835" src="https://github.com/taufikbudiw8/Probability-Project/assets/124851791/47de659c-af80-4a64-8d72-6bc7d1488c43">
+
 However, I did not use all of them, after going through the cleaning process, I decided to use the data on income, age, experience, profession, married, house & car ownership, city, and risk flag.
 ___
 ## **Objectives Question**
