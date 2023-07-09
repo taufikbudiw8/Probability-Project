@@ -17,4 +17,5 @@ ___
 4. How is the decision that we got from this analysis?
 ___
 *youtube link : https://youtu.be/SuKIUBMPaNQ*
+
 *report link : https://medium.com/@wtaufikbudi/bank-loan-based-on-customer-behaviour-67af5a4ad678*
